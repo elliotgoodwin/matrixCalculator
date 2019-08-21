@@ -1,4 +1,4 @@
-// GaussianElimination
+// matrixInverse
 // reads a comma separated .txt file of arbitrary numbers of rows and columns
 // into a square matrix and uses Gaussian Elimination to compute the inverse
 
