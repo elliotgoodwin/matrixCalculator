@@ -1,7 +1,7 @@
 // matrixCalculator
 // A definition and example of a class that performs addition, subtraction, multiplication and finding the determinant of matrices of arbitrary size
 // OOP Assignment 6
-// Elliot Goodwin - 9621958
+// Elliot Goodwin
 // 04/03/19
 
 // includes and headers
